@@ -7,7 +7,7 @@
    viewBox="0 0 210 148"
    version="1.1"
    id="svg5"
-   sodipodi:docname="Mounting for 3_5 inch disk drive.svg"
+   sodipodi:docname="Mount for 3_5 inch disk drive.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.087256"
-     inkscape:cx="343.52535"
-     inkscape:cy="227.17741"
+     inkscape:cx="361.00054"
+     inkscape:cy="343.06548"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="2675"
@@ -39,12 +39,20 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <circle
+       style="fill:#ff6600;stroke-width:0.462442"
+       id="path1175"
+       cx="-50.804913"
+       cy="-51.999809"
+       r="25"
+       transform="scale(-1)" />
     <path
        id="rect1009"
        style="fill:#999999;stroke-width:0.767149"
-       d="M 2.129069 0 C 0.94943291 3.133293e-16 0 0.94943291 0 2.129069 L 0 144.87074 C 3.133293e-16 146.05038 0.94943291 146.99981 2.129069 146.99981 L 99.48075 146.99981 C 100.66039 146.99981 101.60982 146.05038 101.60982 144.87074 L 101.60982 2.129069 C 101.60982 0.94943291 100.66039 0 99.48075 0 L 2.129069 0 z M 3.1005859 0.99993896 L 98.509749 0.99993896 C 99.673336 0.99993896 100.60988 1.9369993 100.60988 3.1005859 L 100.60988 143.89974 C 100.60988 145.06333 99.673336 145.99987 98.509749 145.99987 L 3.1005859 145.99987 C 1.9369993 145.99987 0.99993896 145.06333 0.99993896 143.89974 L 0.99993896 3.1005859 C 0.99993896 1.9369993 1.9369993 0.99993896 3.1005859 0.99993896 z " />
+       d="m 99.480751,146.99981 c 1.179639,0 2.129069,-0.94943 2.129069,-2.12907 V 2.12907 C 101.60982,0.94943 100.66039,0 99.480751,0 H 2.12907 C 0.94943,0 0,0.94943 0,2.12907 v 142.74167 c 0,1.17964 0.94943,2.12907 2.12907,2.12907 z m -0.971517,-0.99994 H 3.100071 c -1.163587,0 -2.100131,-0.93706 -2.100131,-2.10065 V 3.10007 c 0,-1.16359 0.936544,-2.10013 2.100131,-2.10013 h 95.409163 c 1.163587,0 2.100646,0.93654 2.100646,2.10013 v 140.79915 c 0,1.16359 -0.937059,2.10065 -2.100646,2.10065 z" />
     <g
-       id="g1077">
+       id="g1077"
+       transform="rotate(180,50.80491,73.499905)">
       <circle
          style="fill:#ff0000;stroke-width:0.424014"
          id="path527"
@@ -120,28 +128,22 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="50.573578"
-       y="44.317997"
+       y="94.317993"
        id="text825-5"><tspan
          sodipodi:role="line"
          id="tspan823-1"
          style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffff00;stroke-width:0.264583"
          x="50.573578"
-         y="44.317997">Mount for</tspan><tspan
+         y="94.317993">Mount for</tspan><tspan
          sodipodi:role="line"
          style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffff00;stroke-width:0.264583"
          x="50.573578"
-         y="51.373547"
+         y="101.37354"
          id="tspan854"> a 3.5 inch</tspan><tspan
          sodipodi:role="line"
          style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffff00;stroke-width:0.264583"
          x="50.573578"
-         y="58.429096"
+         y="108.42909"
          id="tspan882">disk drive</tspan></text>
-    <circle
-       style="fill:#ff6600;stroke-width:0.462442"
-       id="path1175"
-       cx="50.804909"
-       cy="95"
-       r="25" />
   </g>
 </svg>
