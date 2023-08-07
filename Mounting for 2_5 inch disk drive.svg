@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="Mounting for 2_5 inch disk drive.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.087256"
+     inkscape:cx="479.64783"
+     inkscape:cy="309.95459"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="2675"
+     inkscape:window-y="1121"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect234"
+       style="fill:#999999;stroke-width:0.348252"
+       d="M 68.850062,1.36064 C 68.850062,0.606945 68.243116,0 67.489421,0 H 1.36064 C 0.606947,0 0,0.606945 0,1.36064 v 97.278813 c 0,0.7537 0.606946,1.360647 1.36064,1.360647 h 66.128781 c 0.753695,0 1.360641,-0.606947 1.360641,-1.360647 z m -0.999939,0.960148 v 95.358524 c 0,0.731801 -0.589049,1.32085 -1.32085,1.32085 H 2.320789 c -0.731801,0 -1.320849,-0.58905 -1.320849,-1.32085 V 2.320788 c 0,-0.731801 0.589049,-1.320849 1.32085,-1.320849 h 64.208483 c 0.731801,0 1.32085,0.589048 1.32085,1.320849 z" />
+    <g
+       id="g655"
+       transform="rotate(90,39.667515,37.367516)">
+      <circle
+         style="fill:#ff0000;stroke-width:0.424014"
+         id="path527"
+         cx="11.7"
+         cy="11.75"
+         r="1.75" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.424014"
+         id="path527-0"
+         cx="88.300003"
+         cy="11.75"
+         r="1.75" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.424014"
+         id="path527-0-3"
+         cx="11.7"
+         cy="73.470001"
+         r="1.75" />
+      <circle
+         style="fill:#ff0000;stroke-width:0.424014"
+         id="path527-0-3-3"
+         cx="88.300003"
+         cy="73.470001"
+         r="1.75" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="74.768578"
+       y="9.1599522"
+       id="text765"><tspan
+         sodipodi:role="line"
+         id="tspan763"
+         style="font-size:5.64444px;fill:#ffff00;stroke-width:0.264583"
+         x="74.768578"
+         y="9.1599522">Laser cutting notes:</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;fill:#ffff00;stroke-width:0.264583"
+         x="74.768578"
+         y="16.215502"
+         id="tspan767">* Red - Cut (for mounting holes)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;fill:#ffff00;stroke-width:0.264583"
+         x="74.768578"
+         y="23.271053"
+         id="tspan769">* Grey - Engrave (for outline of drive)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;fill:#ffff00;stroke-width:0.264583"
+         x="74.768578"
+         y="30.326603"
+         id="tspan771">* Yellow - Notes only</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="6.4229803"
+       y="96.789772"
+       id="text825"><tspan
+         sodipodi:role="line"
+         id="tspan823"
+         style="font-size:5.64444px;fill:#ffff00;stroke-width:0.264583"
+         x="6.4229803"
+         y="96.789772">Drive connector here</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="34.193607"
+       y="45.075275"
+       id="text825-5"><tspan
+         sodipodi:role="line"
+         id="tspan823-1"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffff00;stroke-width:0.264583"
+         x="34.193607"
+         y="45.075275">Mounting for</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffff00;stroke-width:0.264583"
+         x="34.193607"
+         y="52.130825"
+         id="tspan854"> a 2.5 inch</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;fill:#ffff00;stroke-width:0.264583"
+         x="34.193607"
+         y="59.186375"
+         id="tspan882">disk drive</tspan></text>
+  </g>
+</svg>
